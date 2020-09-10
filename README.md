@@ -12,4 +12,4 @@ A simple realtime chat app where users can create room and join for group chat.
 * ExpressJS
 
 ## Project Live Link
-Check the [link](https://rahul-chat-app.herokuapp.com/) for live preview of the project.
+Check the [link](https://tahsib-chat-app.herokuapp.com/) for live preview of the project.
